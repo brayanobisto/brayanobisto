@@ -11,7 +11,7 @@
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=brayanobisto&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanobisto&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanobisto&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://visitcount.itsvg.in/api?id=brayanobisto&icon=0&color=12)
 
 # 📎Contact
